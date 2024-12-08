@@ -33,7 +33,7 @@
 		"react-autosuggest": "^9.4.3",
 		"react-dom": "^16.8.6",
 		"react-test-renderer": "^16.8.6",
-		"sequelize": "^5.8.6",
+		"sequelize": "^5.15.1",
 		"sequelize-cli": "^5.4.0",
 		"style-loader": "^0.23.1",
 		"styled-components": "^4.2.0",
